@@ -5,6 +5,13 @@ h1{
     font-size: 40px;
 }
 
+.extra {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    font-size: 200px;
+    color: pink;
+}
+
 h2{
     color: green;
 }
