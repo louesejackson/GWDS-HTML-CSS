@@ -14,9 +14,18 @@ h1{
 
     font-size: 200px;
     color: pink;
-    height: 0px;
+    /* height: 0px; */
 }
 
 h2{
     color: green;
+}
+
+p {
+    font-family: monospace;
+    font-size: 20px;
+}
+
+p.special {
+    font-family: cursive;
 }
