@@ -36,3 +36,23 @@ h2 {
     color: green;
 }
 
+ul {
+    list-style-type:square;
+    
+}
+
+ol {
+    list-style-type: upper-roman;
+    
+}
+
+li {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+em{
+    color:orangered;
+    
+}
