@@ -1,5 +1,6 @@
 body{
     background-color: blueviolet;
+    
 
 }
 
@@ -29,4 +30,12 @@ p {
 
 p.special {
     font-family: cursive;
+}
+
+li{
+    text-align: left;
+}
+
+img {
+    width: 500px;
 }
