@@ -10,6 +10,8 @@ p {
 }
 
 
+
+
 h1,h2,h3,h4,h5,h6 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: lightyellow;
@@ -57,4 +59,18 @@ li {
 
 }
 
+/* Cake page  */
 
+.cake-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: white;
+    font-size: 25px;
+    font-weight:bold;
+}
+
+.caption {
+    font-size: 15px;
+    font-style: italic;
+    color: green;
+}
