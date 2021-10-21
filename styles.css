@@ -79,20 +79,28 @@ li {
 }
 
 .container {
-    border: 3px dashed green;
+
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
 
 }
 
+
 .cake-item {
     
     display: flex;
     flex-wrap: wrap;
-    width: 300px;
-    height: 300px;
+    width: 275px;
+    height: 275px;
     padding: 4px;
+}
+
+.cake-group{
     
+    display: flex;
+    flex-wrap: wrap;
+    width: 250px;
+    justify-content: center;
     
 }
