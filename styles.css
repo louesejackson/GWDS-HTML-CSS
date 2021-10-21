@@ -9,6 +9,7 @@ p {
     color: lightpink
 }
 
+
 h1,h2,h3,h4,h5,h6 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: lightyellow;
@@ -25,4 +26,8 @@ h1 {
 
 h2 {
     color: black;
+}
+
+.special {
+    font-family: cursive;
 }
