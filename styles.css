@@ -1,4 +1,8 @@
+/* 
+* { 
 
+}
+*/
 
 body{
 
@@ -78,6 +82,11 @@ li {
     
 }
 
+section {
+    background-color: darkslateblue;
+    padding: 8px 0px 0px 0px;
+}
+
 .container {
 
     display: flex;
@@ -106,6 +115,7 @@ li {
 }
 
 footer {
+    
     background-color: white;
     
 }
@@ -113,6 +123,7 @@ footer {
 .disclaimer {
     color:darkslategray;
     padding: 5px;
-    overflow: hidden;
+    text-align: center;
+    
 
 }
