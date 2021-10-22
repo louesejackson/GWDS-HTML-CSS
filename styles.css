@@ -66,10 +66,10 @@ li {
 
 }
 
-img{
+/* img{
     
     width: 50%;
-}
+} */
 
 a {
     color: white;
@@ -102,16 +102,16 @@ a {
 }
 
 
+
+.container {
+
+    display: flex;
+} 
+
+
 /* section { 
     padding: 8px 0px 0px 0px;
 } */
-
-.container
-
-    display: flex;
-
-
-} 
 
  
 
