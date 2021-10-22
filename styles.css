@@ -78,87 +78,87 @@ a {
 
 /* Cake page  */
 
-.cake-text {
+/* .cake-text {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: left;
     color: white;
     font-size: 25px;
     font-weight:bold;
-}
+} */
 
-.caption {
+/* .caption {
     font-size: 15px;
     font-style: italic;
     
-}
+} */
 
-section {
+/* section {
     padding: 8px 0px 0px 0px;
-}
+} */
 
-.section-one {
+/* .section-one {
     background-color: darkslateblue;
-}
+} */
 
-.section-two {
+/* .section-two {
     padding: 0 0 10px 0;
     background-color: deepskyblue;
-}
+} */
 
-.container {
+/* .container {
 
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
 
-}
+} */
 
 
-.cake-item {
+/* .cake-item {
     
     display: flex;
     flex-wrap: wrap;
     width: 275px;
     height: 275px;
     padding: 4px;
-}
+} */
 
-.cake-group{
+/* .cake-group{
     
     display: flex;
     flex-wrap: wrap;
     width: 250px;
     justify-content: center;
     
-}
+} */
 
-.cake-poster-item {
+/* .cake-poster-item {
     /* border: 1px solid yellow; */
     display: flex;
     flex-wrap: wrap;
     width: 40%; 
     /* width: 300px; */
     padding: 10px;
-}
+} */
 
-.dark {
+/* .dark {
     color: #333333;
-}
+} */
 
-.center {
+/* .center {
     text-align: center;
-}
+} */
 
-footer {
+/* footer {
     
     background-color: white;
     
-}
+} */
 
-.disclaimer {
+/* .disclaimer {
     color:darkslategray;
     padding: 5px;
     text-align: center;
     
 
-}
+} */
