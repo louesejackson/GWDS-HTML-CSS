@@ -81,31 +81,28 @@ a {
 
 
 
-/* .cake-text {
+ .cake-text {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: left;
     color: white;
     font-size: 25px;
     font-weight:bold;
-} */
+} 
 
-/* .caption {
+
+.section-one {
+    border: 1px solid white;
+    background-color: darkslateblue;
+} 
+
+.caption {
     font-size: 15px;
     font-style: italic;
     
-} */
+}
 
-/* section {
+/* section { 
     padding: 8px 0px 0px 0px;
-} */
-
-/* .section-one {
-    background-color: darkslateblue;
-} */
-
-/* .section-two {
-    padding: 0 0 10px 0;
-    background-color: deepskyblue;
 } */
 
 /* .container {
@@ -115,6 +112,19 @@ a {
     flex-wrap: wrap;
 
 } */
+
+ 
+
+
+
+
+
+/* .section-two {
+    padding: 0 0 10px 0;
+    background-color: deepskyblue;
+} */
+
+
 
 
 /* .cake-item {
@@ -151,6 +161,11 @@ a {
 /* .center {
     text-align: center;
 } */
+
+
+
+/* footer styles  */
+
 
 /* footer {
     
