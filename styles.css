@@ -102,47 +102,34 @@ a {
 }
 
 
-
-.container {
-
-    display: flex;
-} 
-
-
 /* section { 
     padding: 8px 0px 0px 0px;
 } */
 
- 
+.container {
 
+    display: flex;
+    /* justify-content: space-evenly; */
+    /* flex-wrap: wrap;  */
 
+} 
 
+.cake-item {
+    
+    border: 1px dashed yellow;
+    width: 275px;
+    height: 275px;
+    padding: 4px;
+} 
 
+.cake-group{
+    border: 2px solid green;
+    width: 250px;    
+}  
 
 /* .section-two {
     padding: 0 0 10px 0;
     background-color: deepskyblue;
-} */
-
-
-
-
-/* .cake-item {
-    
-    display: flex;
-    flex-wrap: wrap;
-    width: 275px;
-    height: 275px;
-    padding: 4px;
-} */
-
-/* .cake-group{
-    
-    display: flex;
-    flex-wrap: wrap;
-    width: 250px;
-    justify-content: center;
-    
 } */
 
 /* .cake-poster-item {
