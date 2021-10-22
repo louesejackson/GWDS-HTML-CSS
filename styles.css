@@ -93,8 +93,16 @@ a {
 }
 
 section {
-    background-color: darkslateblue;
     padding: 8px 0px 0px 0px;
+}
+
+.section-one {
+    background-color: darkslateblue;
+}
+
+.section-two {
+    padding: 0 0 10px 0;
+    background-color: deepskyblue;
 }
 
 .container {
