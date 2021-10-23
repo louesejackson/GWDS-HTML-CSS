@@ -12,43 +12,43 @@
 /* styles only section 2 */
 
  .section-two {
-    padding: 0 0 10px 0;
+    padding: 6px 2px 2px 8px;
     background-color: deepskyblue;
 } 
 
-/* designating a % for width allows rescale when web brower moves */
+/* designating a % for width for an image allows a rescale when web brower moves */
 
  .cake-poster-item {
-     border: 1px solid yellow; 
-     display: flex; 
+    border: 1px solid yellow; 
+    display: flex; 
     flex-wrap: wrap;
-     width: 40%;   
-     padding: 10px; 
- */
+    width: 40%;   
+    padding: 10px; 
+ }
 
-/* .dark {
+ .dark {
     color: #333333;
-} */
+} 
 
-/* .center {
+ .center {
     text-align: center;
-} */
+} 
 
 
 
 /* footer styles  */
 
 
-/* footer {
+ footer {
     
     background-color: white;
     
-} */
+} 
 
-/* .disclaimer {
+ .disclaimer {
     color:darkslategray;
     padding: 5px;
     text-align: center;
     
 
-} */
+} 
