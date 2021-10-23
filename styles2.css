@@ -1,4 +1,4 @@
-/* Uncomment by deleting the star and slash on the beginning and end of every style.*/
+/* Uncomment by deleting the star and slash on the beginning and end of every style. Try different styles, look up what you can do and change, or the options VSC gives you*/
 
 /* poster section */
 
@@ -9,7 +9,7 @@
     padding: 8px 0px 0px 0px;
 } 
 
-/* styles only section 2 */
+/* this styles only "section 2" */
 
  .section-two {
     padding: 6px 2px 2px 8px;
@@ -45,10 +45,7 @@
     
 } 
 
- .disclaimer {
-    color:darkslategray;
+ .disclaimer {   
     padding: 5px;
     text-align: center;
-    
-
 } 
